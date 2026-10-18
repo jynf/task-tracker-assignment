@@ -3,4 +3,4 @@
 #how to run
 #open project in terminal
 #run npm install
-#run npm start
+\n run npm start
